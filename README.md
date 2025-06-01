@@ -1,4 +1,4 @@
--hi, I’m @Drvegapunk01
+-hi, I’m Andrith Reba
 - im a electronics student
 - im love to work with embeded sistem 
 - studying on SMK 2 Manokwari 
