@@ -1,13 +1,4 @@
--hi, I’m Andrith Reba
-- im a electronics student
-- im love to work with embeded sistem 
-- studying on SMK 2 Manokwari 
-
-
-
-
-in this account im probably just post my PCB design project, arduino code, stm32 code, and my circuit design
-:)
+Electronics Engineering Student on Electronic Engineering Polytechnic Institute of Surabaya
 
 
 <!---
