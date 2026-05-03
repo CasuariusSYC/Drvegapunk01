@@ -15,6 +15,3 @@ Graduate from SMKN 2 Manokwari
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=drvegapunk01\&show_icons=true)
