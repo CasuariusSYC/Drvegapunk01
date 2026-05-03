@@ -15,3 +15,10 @@
 
 ---
 
+## Wishlist
+- [x] Accepted into one of the top polytechnics in Indonesia and Southeast Asia (Electronic Engineering Polytechnic Institute of Surabaya).
+- [ ] Become Master’s student at MIT.
+- [ ] work as Electronics Engineer
+
+
+---
