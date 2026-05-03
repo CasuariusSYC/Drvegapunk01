@@ -1,7 +1,7 @@
 # Hi, I'm Andrith Reba
 
-Electronic Engineering Student Polytechnic Institute of Surabaya
-Graduate from SMKN 2 Manokwari
+- Electronic Engineering Student Polytechnic Institute of Surabaya
+- Graduate from SMKN 2 Manokwari
 
 ---
 
