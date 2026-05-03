@@ -1,5 +1,11 @@
-Electronics Engineering Student on Electronic Engineering Polytechnic Institute of Surabaya
+# Electronics Engineering Student on Electronic Engineering Polytechnic Institute of Surabaya
+# Graduate from SMKN 2 Manokwari 
 
+# Intresting in
+## Electronics
+## Robotics
+## Edge Deep Learning
+## Computer Vision
 
 <!---
 Drvegapunk01/Drvegapunk01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
