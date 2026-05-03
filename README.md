@@ -1,15 +1,20 @@
-# Electronics Engineering Student on Electronic Engineering Polytechnic Institute of Surabaya & Graduate from SMKN 2 Manokwari 
- 
+# Hi, I'm Andrith Reba
 
-# Intresting in
-- Electronics
-- Robotics
-- Embeded System
-- Edge Deep Learning
-- Computer Vision
+Electronic Engineering Student Polytechnic Institute of Surabaya
+Graduate from SMKN 2 Manokwari
 
+---
 
-<!---
-Drvegapunk01/Drvegapunk01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Interests
+
+* Electronics
+* Robotics
+* Embedded Systems
+* Edge AI / Deep Learning
+* Computer Vision
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=drvegapunk01\&show_icons=true)
